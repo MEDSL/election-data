@@ -26,8 +26,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](https://pages-themes.github.io/minimal/assets/img/logo.png)
 ```
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~cwimpy/94.embed"></iframe>
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
